@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de62ffc7-97af-4b96-aba5-959d4451135d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OCResolveContextSettings">
+    <option name="configuration" value="$PROJECT_DIR$/deps/hiredis/async.c" />
+  </component>
+  <component name="ProjectId" id="1gMjdo6Ie64W6gNGD6VC4BZyIdl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de62ffc7-97af-4b96-aba5-959d4451135d" name="Default Changelist" comment="" />
+      <created>1597931444269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597931444269</updated>
+      <workItem from="1597931445777" duration="2655000" />
+      <workItem from="1598260694689" duration="41000" />
+      <workItem from="1599063165731" duration="240000" />
+      <workItem from="1599795971008" duration="240000" />
+      <workItem from="1601379164008" duration="345000" />
+      <workItem from="1603781440818" duration="12000" />
+      <workItem from="1603781472086" duration="5000" />
+      <workItem from="1626014813157" duration="5798000" />
+      <workItem from="1626228240689" duration="7218000" />
+      <workItem from="1626317128610" duration="485000" />
+      <workItem from="1626402021882" duration="838000" />
+      <workItem from="1626772309029" duration="9376000" />
+      <workItem from="1627482025331" duration="1560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="219" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626402791202">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="360" y="219" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1626402791202" />
+    <state x="591" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626402683691">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="591" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1626402683691" />
+    <state x="683" y="293" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1626315775178">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="683" y="293" key="#com.intellij.ide.macro.MacrosDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1626315775178" />
+    <state x="405" y="160" key="SettingsEditor" timestamp="1626317064973">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="160" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1626317064973" />
+    <state x="405" y="172" key="SettingsEditor/0.25.1792.1026@0.25.1792.1026" timestamp="1626014864237" />
+    <state x="597" y="259" width="597" height="599" key="find.popup" timestamp="1627482755814">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="597" y="259" width="597" height="599" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1627482755814" />
+    <state x="597" y="262" width="597" height="548" key="find.popup/0.25.1792.1026@0.25.1792.1026" timestamp="1626014845853" />
+    <state x="561" y="265" key="run.anything.popup" timestamp="1626317069308">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="265" key="run.anything.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1626317069308" />
+  </component>
+</project>
